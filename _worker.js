@@ -19,7 +19,7 @@ let addressesapi = [
 let addressesnotls = [
 	'www.visa.com.sg#NoTl优选',
 	'www.wto.org:8080#NoTl优选',
-		'time.cloudflare.com:80#NoTls优选'，
+	'time.cloudflare.com:80#NoTls优选'，
 	'shopify.com:80#NoTls优选',
 	'time.is:88#NoTls优选',
 	'icook.hk:80#NoTls优选',
@@ -52,7 +52,7 @@ let addressesnotls = [
 	'www.glassdoor.com:80#NoTls优选',
 	'www.udemy.com:80#NoTls优选',
 	'cdn-a11.xn--b6gac.eu.org:80#NoTls优选',
-	'cdn-b100.xn--b6gac.eu.org:80#官方NoTls优选',域
+	'cdn-b100.xn--b6gac.eu.org:80#官方NoTls优选'，
 	'xn--b6gac.eu.org:80#NoTls优选',
 	'alejandracaiccedo.com:80#NoTls优选',
 	'nc.gocada.co:80#NoTls优选',
