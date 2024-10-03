@@ -57,9 +57,9 @@ let addressesnotls = [
 	'log.bpminecraft.com:80#NoTls优选',
 	'ww.boba88slot.com:80#NoTls优选',
 	'gur.gov.ua:80#NoTls优选',
-	'www.zsu.gov.ua:80#官方NoTls优选',
-	'www.iakeys.com:80#官方NoTls优选',
-	'www.d-555.com:80#官方NoTls优选',
+	'www.zsu.gov.ua:80#NoTls优选',
+	'www.iakeys.com:80#NoTls优选',
+	'www.d-555.com:80#NoTls优选',
 	'fbi.gov:88#NoTls优选',
 ];
 
