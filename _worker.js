@@ -53,7 +53,6 @@ let addressesnotls = [
 	'cdn-a11.xn-b6gac.eu.org:80#NoTls优选',
 	'cdn-b100.xn-b6gac.eu.org:80#NoTls优选',
 	'xn-b6gac.eu.org:80#NoTls优选',
-	'alejandracaiccedo.com:80#NoTls优选'，
 	'nc.gocada.co:80#NoTls优选',
 	'log.bpminecraft.com:80#NoTls优选',
 	'ww.boba88slot.com:80#NoTls优选',
