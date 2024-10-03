@@ -20,8 +20,6 @@ let addressesnotls = [
 	'www.visa.com.sg#NoTl优选',
 	'www.wto.org:8080#NoTl优选',
 	'icook.hk:80#NoTls优选',
-	'icook.tw:80#NoTls优选',
-	'ip.sb:80#NoTls优选',
 	'japan.com:88#NoTls优选',
 	'skk.moe:80#NoTls优选',
 	'www.visa.com:80#NoTls优选',
