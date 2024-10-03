@@ -19,7 +19,7 @@ let addressesapi = [
 let addressesnotls = [
 	'www.visa.com.sg#NoTl优选',
 	'www.wto.org:8080#NoTl优选',
-	'time.cloudflare.com:80#NoTls优选'，
+	'time.cloudflare.com:80#NoTls优选',
 	'shopify.com:80#NoTls优选',
 	'time.is:88#NoTls优选',
 	'icook.hk:80#NoTls优选',
@@ -31,7 +31,6 @@ let addressesnotls = [
 	'singapore.com:80#NoTls优选',
 	'skk.moe:80#NoTls优选',
 	'www.visa.com:80#NoTls优选',
-	'www.visa.com.sg:80#NoTls优选',
 	'www.visa.com.hk:80#NoTls优选',
 	'ww.visa.com.tw:80#NoTls优选',
 	'www.visa.co.jp:80#NoTls优选',
@@ -54,7 +53,7 @@ let addressesnotls = [
 	'cdn-a11.xn--b6gac.eu.org:80#NoTls优选',
 	'cdn-b100.xn--b6gac.eu.org:80#官方NoTls优选'，
 	'xn--b6gac.eu.org:80#NoTls优选',
-	'alejandracaiccedo.com:80#NoTls优选',
+	'alejandracaiccedo.com:80#NoTls优选'，
 	'nc.gocada.co:80#NoTls优选',
 	'log.bpminecraft.com:80#NoTls优选',
 	'ww.boba88slot.com:80#NoTls优选',
