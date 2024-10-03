@@ -23,7 +23,6 @@ let addressesnotls = [
 	'skk.moe:80#NoTls优选',
 	'www.visa.com:80#NoTls优选',
 	'www.visa.com.hk:80#NoTls优选',
-	'www.visa.com.jp:80#NoTls优选',
 	'www.gco.gov.qa:80#NoTls优选',
 	'www.gov.se:80#NoTls优选',
 	'www.gov.ua:80#NoTls优选',
